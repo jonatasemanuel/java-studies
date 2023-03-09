@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/college.iml" filepath="$PROJECT_DIR$/.idea/college.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imc/imc.iml" filepath="$PROJECT_DIR$/imc/imc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leonidas/leonidas.iml" filepath="$PROJECT_DIR$/leonidas/leonidas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reverse-string/reverse-string.iml" filepath="$PROJECT_DIR$/reverse-string/reverse-string.iml" />
+    </modules>
+  </component>
+</project>
