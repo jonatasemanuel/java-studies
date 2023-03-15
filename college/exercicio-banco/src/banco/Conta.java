@@ -12,27 +12,35 @@ public class Conta {
         this.limiteSaque = limiteSaque;
     }
 
-    public double transferir(String Conta, float valor) {
-        double sub = Conta.saldo;
-        return
+    public void transferir(Conta conta ,float valor) {
+        if (valor < saldo) {
+            saldo -= valor;
+            conta.saldo += valor;
+        }
     }
-    public void sacar(float valor){
+     boolean sacar(float valor){
 //        float sub = saldo - valor;
-        if (valor <=limiteSaque){
-            System.out.println("Saldo atual: " + saldo);
+        if (valor <=limiteSaque && saldo > valor){
+            saldo -= valor;
             System.out.println("Sacando: " + valor);
+            return true;
         }
         else {
-            System.out.println("Limite de saque excedido!");
+            return false;
         }
     }
 
-    public void depositar(float valor) {
+    boolean depositar(float valor) {
+        if (valor <= 0) {
+            return false;
+        }
         System.out.println("Depositando: " + valor);
-        System.out.println("Total: " + (saldo+valor));
+        saldo += valor;
+        return true;
     }
 
     public void info(){
+        System.out.println("Nome: " + correntista);
         System.out.println("Saldo atual: R$" + saldo);
     }
 }
