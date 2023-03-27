@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d5a2a928-b299-4efc-a843-fbabbb7c86c7" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../ProjetoAula4/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjetoAula4/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjetoAula4/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjetoAula4/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjetoAula4/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjetoAula4/ProjetoAula4.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjetoAula4/src/projeto/Livro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjetoAula4/src/projeto/LivroDigital.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjetoAula4/src/projeto/LivroDigitalEx.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjetoAula4/src/projeto/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicio-heranca.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercicioUm/Autor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercicioUm/Livro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercicioUm/LivroDigital.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercicioUm/LivroFisico.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercicioUm/Main.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2NI88CQMPgUjxPYTOSnfZ8xvnoE" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/home/jonatello/devspace/java-studies/college/exercicio-heranca"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d5a2a928-b299-4efc-a843-fbabbb7c86c7" name="Changes" comment="" />
+      <created>1679340073307</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1679340073307</updated>
+    </task>
+    <servers />
+  </component>
+</project>

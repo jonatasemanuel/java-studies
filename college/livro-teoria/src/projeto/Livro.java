@@ -1,6 +1,6 @@
 package projeto;
 
-public class Livro {
+public abstract class Livro {
 
 	public String autor;
 	public float custoProducao;

@@ -1,6 +1,6 @@
 package exercicioUm;
 
-public class Livro {
+public abstract class Livro {
     private String titulo;
     private Autor autor;
     private String genero;

@@ -13,7 +13,7 @@ public class Main {
 
         //Tema 3
 
-        Livro l1 = new Livro("Sherlock Holmes","Sir Arthur Conan Doyle");
+        LivroF l1 = new Livro("Sherlock Holmes","Sir Arthur Conan Doyle");
 
         LivroDigital l2 = new LivroDigital("Sherlock Holmes","Sir Arthur Conan Doyle","http://meusite/sherlock");
 
